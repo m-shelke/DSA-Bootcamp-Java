@@ -4,6 +4,6 @@
 - [Course website](https://www.techwithkunal.com/courses/dsa)
 - [Assignments](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/tree/main/assignments) (solutions can be found on LeetCode)
 
-Mahesh say this community classromm is good.
+Mahesh say this community classromm is not good.
 
 
